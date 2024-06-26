@@ -12,7 +12,7 @@ import RegisterPage from 'pages/auth/register';
 import LayoutAdmin from 'components/admin/layout.admin';
 import ProtectedRoute from 'components/share/protected-route.ts';
 import Header from 'components/client/header.client';
-import Footer from 'components/client/footer.client';
+import Footer from './components/client/footer.client';
 import HomePage from 'pages/home';
 import 'styles/app.module.scss';
 import DashboardPage from './pages/admin/dashboard';
